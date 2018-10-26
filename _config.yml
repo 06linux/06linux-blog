@@ -10,7 +10,7 @@ title: 06linux
 brief-intro: 业精于勤，荒于嬉；行成于思，毁于随
 #baseurl: "/06linux-blog" # the subpath of your site, e.g. /blog   (此处对应 github 仓库中项目的名称)
 
-baseurl: ""
+baseurl: ""         # 如果博客地址绑定 dns 域名了，此处设置为空就可以
 url: "https://06linux.github.io" # the base hostname & protocol for your site
 
 
