@@ -34,7 +34,7 @@ type: page
 ## 捐赠本站
 
 如果您觉得本站的资料对您有所帮助，欢迎对本站进行捐赠。
-所有捐赠自己仅用于对本站的维护工作。
+
 
 ![微信支付]({{ site.url }}/assets/img/ewm/qq_weixin.png) ![支付宝支付]({{ site.url }}/assets/img/ewm/qq_zhifubao.png)
 
