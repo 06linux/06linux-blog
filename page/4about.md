@@ -33,14 +33,15 @@ type: page
 
 ## 捐赠本站
 
-如果您觉得本站的资料对您有所帮助，欢迎对本站进行捐赠。
+* 如果您觉得本站的资料对您有所帮助，欢迎对本站进行捐赠。
+* 所有捐赠资金将全部投入到站点的维护中。
+* 有了您的投入，我们可以在开源共享的道路上走的更远。
 
 
 ![微信支付]({{ site.url }}/assets/img/ewm/qq_weixin.png) ![支付宝支付]({{ site.url }}/assets/img/ewm/qq_zhifubao.png)
 
 
 ## 本站搭建技术资料
-
 
 * [https://www.jekyll.com.cn/](https://www.jekyll.com.cn/)
 * [https://jekyllrb.com/](https://jekyllrb.com/)

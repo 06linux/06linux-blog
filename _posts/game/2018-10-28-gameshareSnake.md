@@ -14,6 +14,7 @@ tags: game 源码 cocos2d-x
 ![贪吃蛇-经典掌机消除游戏]({{ site.url }}/assets/open-src/snake-classic/snake_classic_jietu.png)
 
 
+
 ## 游戏简介
 
 追求经典，向经典致敬！
@@ -55,7 +56,7 @@ tags: game 源码 cocos2d-x
 
 ### 捐赠本站
 
-你的支持使我们坚持的动力。 
+您的支持是我们坚持的动力。 
 [捐赠地址>>>](https://openbook.wiki/about/#%E6%8D%90%E8%B5%A0%E6%9C%AC%E7%AB%99)
 
 
