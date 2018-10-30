@@ -45,6 +45,7 @@ type: page
 
 * [https://www.jekyll.com.cn/](https://www.jekyll.com.cn/)
 * [https://jekyllrb.com/](https://jekyllrb.com/)
+* [http://jekyllthemes.org/](https://jekyllrb.com/)
 
 
 
