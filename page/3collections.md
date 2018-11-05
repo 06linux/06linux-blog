@@ -12,11 +12,13 @@ type: page
 
 ## 门户网站
 
+* [www.oschina.net](http://www.oschina.net)    
+
+   开源中国
+
 * [www.gutenberg.org](http://www.gutenberg.org/)    
 
    开源的图书网站，外国人制作的，所有的书都是免费的，大多数都是英文为主
-
-
 
 * [www.shuge.org](https://shuge.org)    
 
@@ -41,6 +43,18 @@ type: page
  
 
 ## 工具网站
+
+### 网站开发
+
+* [www.layui.com](http://www.layui.com)    
+
+    经典模块化前端框架， Web UI 开发
+
+ * [www.jeasyui.com](http://www.jeasyui.com)    
+
+    Web UI 开发   
+
+
 
 
 ### web 前端工具
