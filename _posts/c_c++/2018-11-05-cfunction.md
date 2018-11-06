@@ -10,7 +10,7 @@ tags: 源码 C BaseUtil
 {:toc}
 
 
-## C语言工具函数封装
+## C Function
 
 当初学习 C语言的时候，做的一些练习。分享出来纪念一下
 
