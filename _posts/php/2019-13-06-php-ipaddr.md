@@ -9,12 +9,17 @@ tags: php 微信小游戏  IP地址
 * content
 {:toc}
 
-
 ## PHP 获取微信小游戏客户端对应的 IP 地址
 
 微信小游戏使用了代理协议，php 服务器端 REMOTE_ADDR 并不是客户端真正的 ip 地址，
 
 HTTP_ALI_CDN_REAL_IP 才是真正的客户端 ip 地址
+
+
+
+
+
+
 
 ```
 /**
