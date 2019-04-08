@@ -12,7 +12,7 @@ brief-intro: 业精于勤，荒于嬉；行成于思，毁于随
 
 baseurl: ""         # 如果博客地址绑定 dns 域名了，此处设置为空就可以
 #url: "https://06linux.github.io" # the base hostname & protocol for your site
-url: "https://openbook.wiki" # 网站域名
+url: "https://06linux.com" # 网站域名
 
 
 permalink: /:year/:month/:day/:title/
