@@ -6,26 +6,26 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ddmini 
+title: 06linux 
 brief-intro: 业精于勤，荒于嬉；行成于思，毁于随
-#baseurl: "/ddmini-blog" # the subpath of your site, e.g. /blog   (此处对应 github 仓库中项目的名称)
+#baseurl: "/06linux-blog" # the subpath of your site, e.g. /blog   (此处对应 github 仓库中项目的名称)
 
 baseurl: ""         # 如果博客地址绑定 dns 域名了，此处设置为空就可以
-#url: "https://ddmini.github.io" # the base hostname & protocol for your site
-url: "https://ddmini.com" # 网站域名
+#url: "https://06linux.github.io" # the base hostname & protocol for your site
+url: "https://06linux.com" # 网站域名
 
 
 permalink: /:year/:month/:day/:title/
 
 
 # other links
-twitter_username: ddmini
-facebook_username: ddmini.water
-github_username:  ddmini
+twitter_username: 06linux
+facebook_username: 06linux.water
+github_username:  06linux
 email: linux_wuliqiang@qq.com
-weibo_username: ddmini
-zhihu_username: ddmini
-linkedIn_username: ddmini
+weibo_username: 06linux
+zhihu_username: 06linux
+linkedIn_username: 06linux
 dribbble_username:
 
 description_footer: 好好学习 天天向上
@@ -34,7 +34,7 @@ description_footer: 好好学习 天天向上
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
-disqus_shortname: ddmini
+disqus_shortname: 06linux
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
