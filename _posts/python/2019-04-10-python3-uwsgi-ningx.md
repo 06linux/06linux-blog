@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "centos 7.x 系统，nginx+wusgi+python3+flask+mysql网站开发环境配置--ok 已经成功！！强烈推荐！"
+title:  "centos 7.x 系统，nginx+wusgi+python3+flask+mysql网站开发环境配置"
 date:   2019-04-10 15:20:18 +0800
 categories: nginx
 tags: python nginx flask web mysql
@@ -8,6 +8,8 @@ tags: python nginx flask web mysql
 
 * content
 {:toc}
+
+
 
 # centos 7.x 环境搭建文档
 
