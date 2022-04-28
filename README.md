@@ -1,6 +1,8 @@
 # 06linux-blog 日志记录
 
-
+## 项目说明
++ 项目不在使用，迁移到 vuepress 项目
++ 新项目地址：https://github.com/06linux/06linux_wiki
 
 
 ### 2018-10-25
